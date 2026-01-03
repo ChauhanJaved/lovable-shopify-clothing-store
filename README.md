@@ -1,0 +1,1 @@
+"# lovable-shopify-clothing-store" 
